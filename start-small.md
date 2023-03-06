@@ -17,7 +17,7 @@ Learn quickly, reduce risk, deliver value sooner
 
 ### On this page:
 
-- [Tools and Techniques](https://github.com/itsallgonewrong/itsallgonewrong.github.io/new/main#tools-and-techniques)
+- [Tools and Techniques](#tools-and-techniques)
 - Further Reading
 - An example from the Co-op
 ----------
