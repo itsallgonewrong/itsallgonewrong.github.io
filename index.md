@@ -4,8 +4,7 @@
 
 Designing and operating modern, internet-era services is different from what you might be used to, but it’s not rocket science. It’s the application of a few simple principles, a simple flow of work and some tweaked behaviours. 
 
-This guide is designed to give you an introduction into new ways of working to support onboard into an ?OKR team?
-
+This guide is designed to give you an introduction into these ways of working to support your onboarding into you new team.
 
 ## When we say Digital we mean…
 
@@ -16,7 +15,7 @@ When we say digital, digital ways of working, or digital organisations we mean:
 
 ## Characteristics of the Best Digital Organisations
 
-Every organisation is different but the ones adapting best to the internet-era have these characteristics.
+Every organisation is different but those adapting effectively to the internet-era demonstrate these characteristics.
 
 ### [Collaborate around outcomes over solutions](/outcomes-over-solutions.html)
 
