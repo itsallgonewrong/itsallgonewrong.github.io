@@ -56,4 +56,4 @@ Example | Tools and techniques | Further reading
 
 > Start small and optimise for learning.  Give the team space to figure things out and test their riskiest assumptions. Deliver value quickly and continuously. Avoid false certainty.
 
-[Example](/start-small.html#example) | [Tools and techniques](start-small.html#tool-techniques) | [Further reading](start-small.html#further-reading)
+[Example](/start-small.html#example-from-the-coop) | [Tools and techniques](start-small.html#tools-and-techniques) | [Further reading](start-small.html#further-reading)
