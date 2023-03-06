@@ -2,8 +2,6 @@
 
 ----
 
-
-# Toolkit
 Designing and operating modern, internet-era services is different from what you might be used to, but it’s not rocket science. It’s the application of a few simple principles, a simple flow of work and some tweaked behaviours. 
 
 This onboarding toolkit is designed to give you an introduction into new ways of working - some of which you’ll be familiar with, some of which are common sense, and some of which might feel odd at first. The intention is to give you some background reading and links to the good stuff so you can collaborate confidently with your colleagues.
@@ -22,11 +20,11 @@ If you’re a leader thinking of doing agile, user-centred service design for th
 
 Every organisation is different but the ones adapting to the internet-era most effectively have these characteristics.
 
-### Collaborate around outcomes over solutions
+### [Collaborate around outcomes over solutions](/outcomes-over-solutions.html)
 
-Tell your empowered teams what you need to achieve -  something everyone can relate to and get behind. Let them decide how to make it happen.
+> Tell your empowered teams what you need to achieve -  something everyone can relate to and get behind. Let them decide how to make it happen.
 
-[Example](/outcomes-over-solutions.html) | Tools and techniques | Further reading
+[Example](/outcomes-over-solutions.html#example) | [Tools and techniques](outcomes-over-solutions.html#tool-techniques) | [Further reading](outcomes-over-solutions.html#further-reading)
 
 
 ### Radically focus on users and their needs
@@ -59,6 +57,7 @@ Example | Tools and techniques | Further reading
 
 ### [Start small, test early, learn fast](/start-small.html)
 
-Start small and optimise for learning.  Give the team space to figure things out and test their riskiest assumptions. Deliver value quickly and continuously. Avoid false certainty.
+> Start small and optimise for learning.  Give the team space to figure things out and test their riskiest assumptions. Deliver value quickly and continuously. Avoid false certainty.
 
+[Example](/start-small.html#example) | [Tools and techniques](start-small.html#tool-techniques) | [Further reading](start-small.html#further-reading)
 Example | Tools and techniques | Further reading
