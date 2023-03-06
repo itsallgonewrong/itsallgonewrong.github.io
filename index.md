@@ -17,19 +17,12 @@ If you’re a leader thinking of doing agile, user-centred service design for th
 
 Every organisation is different but the ones adapting to the internet-era most effectively have these characteristics.
 
-
-![](https://paper-attachments.dropboxusercontent.com/s_8A5F842EB21A586EB15F7416C8459A5B383B8D95A85DF54255816D981144192A_1677765495713_outcomes.png)
-
 ### Collaborate around outcomes over solutions
 
-Tell your empowered teams what you need to achieve.
-Something everyone can relate to, and get behind. 
-Let them decide how to make it happen.
+Tell your empowered teams what you need to achieve -  something everyone can relate to and get behind. Let them decide how to make it happen.
 
-Example | Tools and techniques | Further reading
+[Example](/outcomes-over-solutions.html) | Tools and techniques | Further reading
 
-
-![](https://paper-attachments.dropboxusercontent.com/s_8A5F842EB21A586EB15F7416C8459A5B383B8D95A85DF54255816D981144192A_1677765682724_users.png)
 
 ### Radically focus on users and their needs
 
