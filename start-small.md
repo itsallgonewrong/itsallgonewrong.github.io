@@ -85,7 +85,7 @@ Testing early and cheaply lead to better results.
 
 # Further Reading
 
-- Blog post: How The New York times used research, prototyping and iteration to build their parenting website open.nytimes.com/how-we-built-nyt-parenting-341f0acf0d2
+- Blog post: [How The New York times used research, prototyping and iteration to build their parenting website](https://open.nytimes.com/how-we-built-nyt-parenting-341f0acf0d2)
 
-- Blog post: How Amazon is built to try and learn mckinsey.com/capabilities/mckinsey-digital/our-insights/fasttimes/interviews/beth-galetti  
+- Blog post: [How Amazon is built to try and learn] (https://mckinsey.com/capabilities/mckinsey-digital/our-insights/fasttimes/interviews/beth-galetti)
 
