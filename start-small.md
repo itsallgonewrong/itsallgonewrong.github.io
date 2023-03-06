@@ -39,12 +39,12 @@ Assumptions mapping is a collaborative approach to help people and teams highlig
 
 Know these early on allows teams test them, using cheap, quick, lean and agile approaches. By doing this team will be able to reduce the risk of project carrying assumptions that turn out to be wrong, and undermine the project.
 
-> [Guidance on running your own Assumptions mapping workshop here] (https://www.dropbox.com/s/qfomji91krnho0j/Assumptions%20Mapping%20Worksheet%20-%20Precoil%20v3.0.pdf?dl=0)
+> [Guidance on running your own Assumptions mapping workshop here](https://www.dropbox.com/s/qfomji91krnho0j/Assumptions%20Mapping%20Worksheet%20-%20Precoil%20v3.0.pdf?dl=0)
 
 ## Avoid false certainty.
 Encourage Weeknotes as a form of regular communication to keep up to date with what teams are learning, decisions they are making, progress against goals and anything upcoming that you should be aware of.
 
-> [Learn more about how to write weeknotes here](https://duckduckgo.com](https://wow.how/to-/write-weeknotes)
+> [Learn more about how to write weeknotes here](https://wow.how/to-/write-weeknotes)
 
 # Example: 
 Starting small and spreading fast at the Co-op
