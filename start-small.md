@@ -5,7 +5,7 @@
 ![](https://paper-attachments.dropboxusercontent.com/s_E4D4F58BA57E4D4E9D6C549FE96C9D1381FFDC5A681A894E0B5D18BC84B58E3F_1677771409843_learn.png)
 
 
-<div class="purple,toptitle">
+<div style="background: #f6cf46; color: white; padding: 0.8em; font-size: 7em; font-weight: 600;">
     Testing
 </div>
 
