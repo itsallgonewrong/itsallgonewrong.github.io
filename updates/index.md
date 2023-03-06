@@ -1,4 +1,4 @@
-[Home](index.html) | [Updates](/updates/index.html) | [About](/about/index.html)
+[Home](/index.html) | [Updates](/updates/index.html) | [About](/about/index.html)
 
 ----
 
