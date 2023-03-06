@@ -5,12 +5,10 @@
 
 Start small and optimise for learning.  Give the team space to figure things out and test their riskiest assumptions. Deliver value quickly and continuously. Avoid false certainty.
 
-## Why?
-You will be able to respond quickly to emerging challenges, needs and market changes
-## Benefit 
-Learn quickly, reduce risk, deliver value sooner
+- You will be able to respond quickly to emerging challenges, needs and market changes
+- Reduce risk, deliver value sooner by optimising for learning
 
-## A leader who starts small, tests and learns fast
+**A leader who starts small, tests and learns fast**
 - Invests in understanding problems
 - Identifies and tests their riskiest assumptions
 - Seeks to deliver value early and often
