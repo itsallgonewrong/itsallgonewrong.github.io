@@ -17,12 +17,12 @@ By doing these thing you will able to:
 ### On this page:
 
 - [Tools and Techniques](#tools-and-techniques)
-- [Further Reading](#further-reading)
 - [An example from the Co-op](#example)
+- [Further Reading](#further-reading)
 
 # Tools and Techniques
 ## Start small and optimise for learning.  
-Use the most efficient and low cost way to test if your ideas are working, do this from the start and use what you learn to inform what you do next. One way to cheaply test is to use paper prototyping as an early technique.
+Use the most efficient and low cost way to test if your ideas are working, do this from the start and use what you learn to inform what you do next. One way to cheaply test is to use **paper prototyping** as an early technique.
 
 ![Paper-Prototyping-As-A-Usability-Testing-Technique-session](https://usabilitygeek.com/wp-content/uploads/2012/08/Paper-Prototyping-As-A-Usability-Testing-Technique-session.jpg)
 
@@ -31,7 +31,7 @@ Use the most efficient and low cost way to test if your ideas are working, do th
 
 ## Give the team space to figure things out and test their riskiest assumptions.
 
-Use tools like Assumptions mapping to surface what assumptions you are making and which ones hold the most risk if they turn out to be incorrect. Using this technique will allow you to prioritise your assumptions and which you need to test early.
+Use tools like **Assumptions mapping** to surface what assumptions you are making and which ones hold the most risk if they turn out to be incorrect. Using this technique will allow you to prioritise your assumptions and which you need to test early.
 
 ![Assumption Mapping Workshop, by David J Bland](https://paper-attachments.dropboxusercontent.com/s_E4D4F58BA57E4D4E9D6C549FE96C9D1381FFDC5A681A894E0B5D18BC84B58E3F_1677769192759_Screenshot+2023-03-02+at+14.59.38.png)
 
@@ -42,15 +42,14 @@ Know these early on allows teams test them, using cheap, quick, lean and agile a
 > [Guidance on running your own Assumptions mapping workshop here](https://www.dropbox.com/s/qfomji91krnho0j/Assumptions%20Mapping%20Worksheet%20-%20Precoil%20v3.0.pdf?dl=0)
 
 ## Avoid false certainty.
-Encourage Weeknotes as a form of regular communication to keep up to date with what teams are learning, decisions they are making, progress against goals and anything upcoming that you should be aware of.
+Encourage **Weeknotes** as a form of regular communication to keep up to date with what teams are learning, decisions they are making, progress against goals and anything upcoming that you should be aware of.
 
 > [Learn more about how to write weeknotes here](https://wow.how/to-/write-weeknotes)
 
-# Example: 
-Starting small and spreading fast at the Co-op
+# Example: Starting small and spreading fast at the Co-op
 ![Source: https://digitalblog.coop.co.uk/2018/04/26/co-designing-the-shifts-website](https://paper-attachments.dropboxusercontent.com/s_E4D4F58BA57E4D4E9D6C549FE96C9D1381FFDC5A681A894E0B5D18BC84B58E3F_1677769164156_Screenshot+2023-03-02+at+14.59.11.png)
 
-Shifts is an application that people can access through the web
+Shifts is an application that people can access through the web.
 There was a 3-week discovery to find out how to make life simpler for the around 40k people our people working in stores, one of those alphas was around store workers schedules.
 
 ## The challenge
