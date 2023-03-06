@@ -1,11 +1,13 @@
 # Start small, test early, learn fast
 
-<div class="purple">
-    Test
-</div>
+
 
 ![](https://paper-attachments.dropboxusercontent.com/s_E4D4F58BA57E4D4E9D6C549FE96C9D1381FFDC5A681A894E0B5D18BC84B58E3F_1677771409843_learn.png)
 
+
+<div class="purple,toptitle">
+    Testing
+</div>
 
 Start small and optimise for learning.  Give the team space to figure things out and test their riskiest assumptions. Deliver value quickly and continuously. Avoid false certainty.
 
@@ -31,9 +33,10 @@ Use the most efficient and low cost way to test if your ideas are working, do th
 
 ![Paper-Prototyping-As-A-Usability-Testing-Technique-session](https://usabilitygeek.com/wp-content/uploads/2012/08/Paper-Prototyping-As-A-Usability-Testing-Technique-session.jpg)
 
-> Find out how to use paper prototyping to test how users interact with your products 
+> [Find out how to use paper prototyping to test how users interact with your products](https://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/)
 
-Give the team space to figure things out and test their riskiest assumptions.
+
+## Give the team space to figure things out and test their riskiest assumptions.
 
 Use tools like Assumptions mapping to surface what assumptions you are making and which ones hold the most risk if they turn out to be incorrect. Using this technique will allow you to prioritise your assumptions and which you need to test early.
 
@@ -43,12 +46,12 @@ Assumptions mapping is a collaborative approach to help people and teams highlig
 
 Know these early on allows teams test them, using cheap, quick, lean and agile approaches. By doing this team will be able to reduce the risk of project carrying assumptions that turn out to be wrong, and undermine the project.
 
-> Guidance on running your own Assumptions mapping workshop here 
+> [Guidance on running your own Assumptions mapping workshop here] (https://www.dropbox.com/s/qfomji91krnho0j/Assumptions%20Mapping%20Worksheet%20-%20Precoil%20v3.0.pdf?dl=0)
 
 ## Avoid false certainty.
 Encourage Weeknotes as a form of regular communication to keep up to date with what teams are learning, decisions they are making, progress against goals and anything upcoming that you should be aware of.
 
-> Learn more about how to write weeknotes here 
+> [Learn more about how to write weeknotes here](https://duckduckgo.com](https://wow.how/to-/write-weeknotes)
 
 # Example: 
 Starting small and spreading fast at the Co-op
@@ -64,7 +67,6 @@ Rescheduling or swapping shifts happens through informal channels like WhatsApp.
 
 If colleagues could do these things independently, managers would be more free to spend time on things that would be more valuable to their colleagues and customers.
 
-
 ## The Approach
 The team prototyped an online version of the schedules, originally called my schedule, and built it into a web prototype to see how users interacted with it.
 
@@ -78,13 +80,11 @@ By November, 600 people across 120 stores were using it, spread by word of mouth
 By May 2018 we’ve had rolled it out to all stores and had 17,500 - 93% of stores / 65% of users 
 £20 million saved in year 1
 
-
 ## Conclusion
 They didn’t go straight into building the full app, It wouldn’t have worked like this…. Small, testing… learning.  Next most important thing
 
 Outcomes first, means the team could be evolutionary
 Testing early and cheaply lead to better results.
-
 
 # Further Reading
 
