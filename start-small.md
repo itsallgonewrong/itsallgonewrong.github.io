@@ -1,12 +1,5 @@
-# Start small, test early, learn fast
-
-
-
-![](https://paper-attachments.dropboxusercontent.com/s_E4D4F58BA57E4D4E9D6C549FE96C9D1381FFDC5A681A894E0B5D18BC84B58E3F_1677771409843_learn.png)
-
-
-<div style="background: #f6cf46; color: white; padding: 0.8em; font-size: 7em; font-weight: 600;">
-    Testing
+<div style="background: #f6cf46; color: white; padding: 0.8em; font-size: 7em; font-weight: 600;margin: 20px 0">
+    Start small, test early, learn fast
 </div>
 
 Start small and optimise for learning.  Give the team space to figure things out and test their riskiest assumptions. Deliver value quickly and continuously. Avoid false certainty.
