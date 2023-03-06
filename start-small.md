@@ -22,7 +22,7 @@ By doing these thing you will able to:
 ### On this page:
 
 - [Tools and Techniques](#tools-and-techniques)
-- [An example from the Co-op](#example)
+- [An example from the Co-op](#example-starting-small-and-spreading-fast-at-the-co-op)
 - [Further Reading](#further-reading)
 
 # Tools and Techniques
