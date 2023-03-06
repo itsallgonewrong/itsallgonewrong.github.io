@@ -4,7 +4,7 @@
 
 Designing and operating modern, internet-era services is different from what you might be used to, but it’s not rocket science. It’s the application of a few simple principles, a simple flow of work and some tweaked behaviours. 
 
-This onboarding toolkit is designed to give you an introduction into new ways of working - some of which you’ll be familiar with, some of which are common sense, and some of which might feel odd at first. The intention is to give you some background reading and links to the good stuff so you can collaborate confidently with your colleagues.
+This guide is designed to give you an introduction into new ways of working to support onboard into an ?OKR team?
 
 
 ## When we say Digital we mean…
