@@ -66,7 +66,7 @@ Shifts is an application that people can access through the web
 There was a 3-week discovery to find out how to make life simpler for the around 40k people our people working in stores, one of those alphas was around store workers schedules.
 
 
-The challenge
+### The challenge
 
 For people in Co-op stores, to know what shift they’d been assigned or swapping them with colleagues was hard as shifts were pinned on the office wall, so they had to go in to see them.
 The impact of that is that it made it hard for people to plan things like hospital appointment, caring duties or holidays, was hard and slow. 
@@ -75,7 +75,7 @@ Rescheduling or swapping shifts happens through informal channels like WhatsApp.
 If colleagues could do these things independently, managers would be more free to spend time on things that would be more valuable to their colleagues and customers.
 
 
-The Approach
+### The Approach
 
 The team prototyped an online version of the schedules, originally called my schedule, and built it into a web prototype to see how users interacted with it.
 
@@ -83,7 +83,7 @@ They went from a paper prototype to people being able to see their shifts online
 They then built it up to including features for checking their holiday balance and book holidays and managers such as approve holidays
 
 
-The Outcome
+### The Outcome
 
 The ability to access your shift pattern from your phone was so useful that word about the early prototype spread (too) quickly. The prototype delivered value quickly.
 Prototype released colleagues in 10 stores in September 2017. 
@@ -92,7 +92,7 @@ By May 2018 we’ve had rolled it out to all stores and had 17,500 - 93% of stor
 £20 million saved in year 1
 
 
-Conclusion
+### Conclusion
 
 They didn’t go straight into building the full app, It wouldn’t have worked like this…. Small, testing… learning.  Next most important thing
 
@@ -101,11 +101,9 @@ Testing early and cheaply lead to better results.
 
 
 ----------
-Further Reading
+## Further Reading
 
-Blog post: How The New York times used research, prototyping and iteration to build their parenting website open.nytimes.com/how-we-built-nyt-parenting-341f0acf0d2
+- Blog post: How The New York times used research, prototyping and iteration to build their parenting website open.nytimes.com/how-we-built-nyt-parenting-341f0acf0d2
 
-Blog post: How Amazon is built to try and learn mckinsey.com/capabilities/mckinsey-digital/our-insights/fasttimes/interviews/beth-galetti  
+- Blog post: How Amazon is built to try and learn mckinsey.com/capabilities/mckinsey-digital/our-insights/fasttimes/interviews/beth-galetti  
 
-
-Back to About Digital Organisations >>
