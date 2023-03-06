@@ -4,7 +4,7 @@
 
 Designing and operating modern, internet-era services is different from what you might be used to, but it’s not rocket science. It’s the application of a few simple principles, a simple flow of work and some tweaked behaviours. 
 
-This guide is designed to give you an introduction into these ways of working to support your onboarding into you new team.
+This guide is designed to give you an introduction into these ways of working to support your onboarding into your new team.
 
 ## When we say Digital we mean…
 
