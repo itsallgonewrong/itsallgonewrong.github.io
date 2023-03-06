@@ -29,7 +29,7 @@ Every organisation is different but the ones adapting to the internet-era most e
 
 ### Radically focus on users and their needs
 
-Start with the user and work backwards.  Focus on the people who will be affected by your work, whose needs must be met to successfully deliver your outcome.
+> Start with the user and work backwards.  Focus on the people who will be affected by your work, whose needs must be met to successfully deliver your outcome.
 
 Example | Tools and techniques | Further reading
 
@@ -38,7 +38,7 @@ Example | Tools and techniques | Further reading
 
 ### Trust extraordinary (cross-functional) teams
 
-Assemble teams from across BBC, no matter which department people usually work in. Give these new teams a problem and autonomy to solve it. Small, empowered teams work magic.
+> Assemble teams from across BBC, no matter which department people usually work in. Give these new teams a problem and autonomy to solve it. Small, empowered teams work magic.
 
 Example | Tools and techniques | Further reading
 
@@ -47,8 +47,7 @@ Example | Tools and techniques | Further reading
 
 ### Make space for creativity
 
-Encourage a culture of experimentation.
-Create space for radical new ideas to be continuously discovered and developed. Involve everyone in innovation.
+> Encourage a culture of experimentation. Create space for radical new ideas to be continuously discovered and developed. Involve everyone in innovation.
 
 Example | Tools and techniques | Further reading
 
@@ -60,4 +59,3 @@ Example | Tools and techniques | Further reading
 > Start small and optimise for learning.  Give the team space to figure things out and test their riskiest assumptions. Deliver value quickly and continuously. Avoid false certainty.
 
 [Example](/start-small.html#example) | [Tools and techniques](start-small.html#tool-techniques) | [Further reading](start-small.html#further-reading)
-Example | Tools and techniques | Further reading
