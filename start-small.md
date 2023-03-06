@@ -1,10 +1,18 @@
+[Home](/index.html) | [Updates](/updates/index.html) | [About](/about/index.html)
+
+----
+
+
 <div style="background: #f6cf46; color: white; padding: 0.8em; font-size: 7em; font-weight: 600;margin: 20px 0">
     Start small, test early, learn fast
 </div>
 
-## *Start small and optimise for learning. Give the team space to figure things out and test their riskiest assumptions. Deliver value quickly and continuously. Avoid false certainty.*
+Start small and optimise for learning.  Give the team space to figure things out and test their riskiest assumptions. Deliver value quickly and continuously. Avoid false certainty.
 
-By doing these thing you will able to quickly respond to emerging challenges, needs and market changes, reduce risk and deliver value sooner
+By doing these thing you will able to:
+- quickly respond to emerging challenges, needs and market changes.  
+- reduce risk
+- deliver value sooner
 
 **A leader who starts small, tests and learns fast**
 - Invests in understanding problems
@@ -14,7 +22,7 @@ By doing these thing you will able to quickly respond to emerging challenges, ne
 ### On this page:
 
 - [Tools and Techniques](#tools-and-techniques)
-- [An example from the Co-op](#example-starting-small-and-scaling-fast-at-the-co-op)
+- [An example from the Co-op](#example)
 - [Further Reading](#further-reading)
 
 # Tools and Techniques
@@ -43,7 +51,7 @@ Encourage **Weeknotes** as a form of regular communication to keep up to date wi
 
 > [Learn more about how to write weeknotes here](https://wow.how/to-/write-weeknotes)
 
-# Example: Starting small and scaling fast at the Co-op
+# Example: Starting small and spreading fast at the Co-op
 ![Source: https://digitalblog.coop.co.uk/2018/04/26/co-designing-the-shifts-website](https://paper-attachments.dropboxusercontent.com/s_E4D4F58BA57E4D4E9D6C549FE96C9D1381FFDC5A681A894E0B5D18BC84B58E3F_1677769164156_Screenshot+2023-03-02+at+14.59.11.png)
 
 Shifts is an application that people can access through the web.
@@ -77,7 +85,7 @@ Testing early and cheaply lead to better results.
 
 # Further Reading
 
-- Blog post: How The New York times used research, prototyping and iteration to build their parenting website [open.nytimes.com/how-we-built-nyt-parenting-341f0acf0d2](https://open.nytimes.com/how-we-built-nyt-parenting-341f0acf0d2)
+- Blog post: How The New York times used research, prototyping and iteration to build their parenting website open.nytimes.com/how-we-built-nyt-parenting-341f0acf0d2
 
-- Blog post: How Amazon is built to try and learn [mckinsey.com/capabilities/mckinsey-digital/our-insights/fasttimes/interviews/beth-galetti](https://mckinsey.com/capabilities/mckinsey-digital/our-insights/fasttimes/interviews/beth-galetti)
+- Blog post: How Amazon is built to try and learn mckinsey.com/capabilities/mckinsey-digital/our-insights/fasttimes/interviews/beth-galetti  
 
