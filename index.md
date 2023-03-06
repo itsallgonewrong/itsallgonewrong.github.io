@@ -8,8 +8,8 @@ This onboarding toolkit is designed to give you an introduction into new ways of
 
 Digital is one of those words that can mean many different things.  When we say digital, digital ways of working, or digital organisations we mean:
 
-“Applying the culture, processes, business models and technologies of the internet era to respond to people's raised expectations.”
-— Tom Loosemore
+> “Applying the culture, processes, business models and technologies of the internet era to respond to people's raised expectations.”
+— [Tom Loosemore](https://twitter.com/tomskitomski/status/880099461132845056?s=61&t=coARUPj3Xs-J_RGrJtF8rA)
 
 ## Characteristics of the Best Digital Organisations
 
