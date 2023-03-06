@@ -52,7 +52,7 @@ Example | Tools and techniques | Further reading
 ![](https://paper-attachments.dropboxusercontent.com/s_8A5F842EB21A586EB15F7416C8459A5B383B8D95A85DF54255816D981144192A_1677766226651_learn.png)
 
 
-### Start small, test early, learn fast
+### [Start small, test early, learn fast](/start.small)
 
 Start small and optimise for learning.  Give the team space to figure things out and test their riskiest assumptions. Deliver value quickly and continuously. Avoid false certainty.
 
