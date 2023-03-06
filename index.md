@@ -1,3 +1,8 @@
+[Home](index.html) | [Updates](/updates/index.html) | [About](/about/index.html)
+
+----
+
+
 # Toolkit
 Designing and operating modern, internet-era services is different from what you might be used to, but it’s not rocket science. It’s the application of a few simple principles, a simple flow of work and some tweaked behaviours. 
 
