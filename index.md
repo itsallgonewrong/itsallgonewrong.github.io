@@ -1,4 +1,4 @@
-[Home](index.html) | [Updates](/updates/index.html) | [About](/about/index.html)
+[Home](index.html) | [Updates](/updates/index.html) | [About](/about.html)
 
 ----
 
@@ -9,16 +9,14 @@ This guide is designed to give you an introduction into new ways of working to s
 
 ## When we say Digital we mean…
 
-Digital is one of those words that can mean many different things.  When we say digital, digital ways of working, or digital organisations we mean:
+When we say digital, digital ways of working, or digital organisations we mean:
 
 > “Applying the culture, processes, business models and technologies of the internet era to respond to people's raised expectations.”
 — [Tom Loosemore](https://twitter.com/tomskitomski/status/880099461132845056?s=61&t=coARUPj3Xs-J_RGrJtF8rA)
 
 ## Characteristics of the Best Digital Organisations
 
-If you’re a leader thinking of doing agile, user-centred service design for the first time, these are some of the ways you can increase your chances of success.  
-
-Every organisation is different but the ones adapting to the internet-era most effectively have these characteristics.
+Every organisation is different but the ones adapting best to the internet-era have these characteristics.
 
 ### [Collaborate around outcomes over solutions](/outcomes-over-solutions.html)
 
