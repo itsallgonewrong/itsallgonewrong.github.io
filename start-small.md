@@ -1,4 +1,4 @@
-[Updates](/updates/index.html) | [About](/about/index.html)
+[Updates](/updates/index.html) | [About](/about.html)
 
 ----
 
@@ -8,7 +8,7 @@
 </div>
 
 <div class="introwords">
-    Start small and optimise for learning.  Give the team space to figure things out and test their riskiest assumptions. Deliver value quickly and continuously. Avoid false certainty.
+Start small and optimise for learning. Give the team space to figure things out and test their riskiest assumptions. Deliver value quickly and continuously. Avoid false certainty.
 </div>
 
 **By doing these things you will able to** quickly respond to emerging challenges, needs and market changes, reduce risk and deliver value sooner
@@ -21,17 +21,18 @@
 ### On this page:
 
 - [Tools and Techniques](#tools-and-techniques)
-- [An example from the Co-op](#example-starting-small-and-spreading-fast-at-the-co-op)
+- [An example from the Co-op](#example-starting-small-and-scaling-fast-at-the-co-op)
 - [Further Reading](#further-reading)
 
 # Tools and Techniques
 ## Start small and optimise for learning.  
 Use the most efficient and low cost way to test if your ideas are working, do this from the start and use what you learn to inform what you do next. One way to cheaply test is to use **paper prototyping** as an early technique.
 
+Use this along with other ways to de-risk your work by learning how people behave when interacting with your product and make decisions based on your emerging learnings.
+
 ![Paper-Prototyping-As-A-Usability-Testing-Technique-session](https://usabilitygeek.com/wp-content/uploads/2012/08/Paper-Prototyping-As-A-Usability-Testing-Technique-session.jpg)
 
 > [Find out how to use paper prototyping to test how users interact with your products](https://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/)
-
 
 ## Give the team space to figure things out and test their riskiest assumptions.
 
@@ -47,6 +48,8 @@ Know these early on allows teams test them, using cheap, quick, lean and agile a
 
 ## Avoid false certainty.
 Encourage **Weeknotes** as a form of regular communication to keep up to date with what teams are learning, decisions they are making, progress against goals and anything upcoming that you should be aware of.
+
+Read the weeknotes of the teams you are most invested in and ask follow up questions.
 
 > [Learn more about how to write weeknotes here](https://wow.how/to-/write-weeknotes)
 
