@@ -1,4 +1,4 @@
-[Updates](/updates/index.html) | [About](/about/index.html)
+[Updates](/updates/index.html) | [About](/about.html)
 
 ----
 
