@@ -53,8 +53,8 @@ Read the weeknotes of the teams you are most invested in and ask follow up quest
 
 > [Learn more about how to write weeknotes here](https://wow.how/to-/write-weeknotes)
 
-<div class="example">
 
+<div class="example" markdown="1">
 # Example: Starting small and scaling fast at the Co-op
 ![Source: https://digitalblog.coop.co.uk/2018/04/26/co-designing-the-shifts-website](https://paper-attachments.dropboxusercontent.com/s_E4D4F58BA57E4D4E9D6C549FE96C9D1381FFDC5A681A894E0B5D18BC84B58E3F_1677769164156_Screenshot+2023-03-02+at+14.59.11.png)
 
