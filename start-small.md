@@ -7,7 +7,9 @@
     Start small, test early, learn fast
 </div>
 
-Start small and optimise for learning.  Give the team space to figure things out and test their riskiest assumptions. Deliver value quickly and continuously. Avoid false certainty.
+<div class="introwords">
+    Start small and optimise for learning.  Give the team space to figure things out and test their riskiest assumptions. Deliver value quickly and continuously. Avoid false certainty.
+</div>
 
 By doing these thing you will able to:
 - quickly respond to emerging challenges, needs and market changes.  
@@ -51,7 +53,7 @@ Encourage **Weeknotes** as a form of regular communication to keep up to date wi
 
 > [Learn more about how to write weeknotes here](https://wow.how/to-/write-weeknotes)
 
-# Example: Starting small and spreading fast at the Co-op
+# Example: Starting small and scaling fast at the Co-op
 ![Source: https://digitalblog.coop.co.uk/2018/04/26/co-designing-the-shifts-website](https://paper-attachments.dropboxusercontent.com/s_E4D4F58BA57E4D4E9D6C549FE96C9D1381FFDC5A681A894E0B5D18BC84B58E3F_1677769164156_Screenshot+2023-03-02+at+14.59.11.png)
 
 Shifts is an application that people can access through the web.
