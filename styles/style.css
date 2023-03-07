@@ -1,4 +1,4 @@
-/****Additional CSS*****/
+/**** Headers for the characteristics *****/
 
 .purple, .pink, .blue, .orange, .yellow 
   {
@@ -28,3 +28,15 @@
 .yellow 
   {background:#f6cf46;
   }
+
+.introwords {
+  font-size: 1.5em;
+    font-style: italic;
+    color: #555555;
+}
+
+/**** Heading styles *****/
+
+.markdown-body h2 {
+    border-bottom: 0;
+}
