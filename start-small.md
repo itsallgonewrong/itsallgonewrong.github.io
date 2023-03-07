@@ -11,10 +11,7 @@
     Start small and optimise for learning.  Give the team space to figure things out and test their riskiest assumptions. Deliver value quickly and continuously. Avoid false certainty.
 </div>
 
-By doing these thing you will able to:
-- quickly respond to emerging challenges, needs and market changes.  
-- reduce risk
-- deliver value sooner
+**By doing these things you will able to** quickly respond to emerging challenges, needs and market changes, reduce risk and deliver value sooner
 
 **A leader who starts small, tests and learns fast**
 - Invests in understanding problems
