@@ -72,3 +72,10 @@ Example | Tools and techniques | Further reading
 
 [Example](/start-small.html#example-starting-small-and-spreading-fast-at-the-co-op) | [Tools and techniques](start-small.html#tools-and-techniques) | [Further reading](start-small.html#further-reading)
 
+
+----
+# Get involved
+
+All our code is available on [GitHub](https://github.com/itsallgonewrong/itsallgonewrong.github.io/).
+
+If you’d like to get in touch or you’d like to get updates by email, drop us a message at name@EMAIL.COM
