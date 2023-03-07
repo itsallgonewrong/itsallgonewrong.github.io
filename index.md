@@ -17,11 +17,19 @@ When we say digital, digital ways of working, or digital organisations we mean:
 
 Every organisation is different but those adapting effectively to the internet-era demonstrate these characteristics.
 
+<div class="purple">
+    Collaborate around outcomes over solutions
+</div>
+
 ### [Collaborate around outcomes over solutions](/outcomes-over-solutions.html)
 
 > Tell your empowered teams what you need to achieve -  something everyone can relate to and get behind. Let them decide how to make it happen.
 
 [Example](/outcomes-over-solutions.html#example) | [Tools and techniques](outcomes-over-solutions.html#tool-techniques) | [Further reading](outcomes-over-solutions.html#further-reading)
+
+<div class="pink">
+    Radically focus on users and their needs
+</div>
 
 
 ### Radically focus on users and their needs
@@ -30,8 +38,9 @@ Every organisation is different but those adapting effectively to the internet-e
 
 Example | Tools and techniques | Further reading
 
-
-![](https://paper-attachments.dropboxusercontent.com/s_8A5F842EB21A586EB15F7416C8459A5B383B8D95A85DF54255816D981144192A_1677765826585_teams.png)
+<div class="orange">
+   Trust extraordinary (cross-functional) teams
+</div>
 
 ### Trust extraordinary (cross-functional) teams
 
@@ -40,7 +49,9 @@ Example | Tools and techniques | Further reading
 Example | Tools and techniques | Further reading
 
 
-![](https://paper-attachments.dropboxusercontent.com/s_8A5F842EB21A586EB15F7416C8459A5B383B8D95A85DF54255816D981144192A_1677766220658_creativity.png)
+<div class="blue">
+   Make space for creativity
+</div>
 
 ### Make space for creativity
 
