@@ -3,7 +3,7 @@
 ----
 
 
-<div style="background: #f6cf46; color: white; padding: 0.8em; font-size: 7em; font-weight: 600;margin: 20px 0">
+<div class="yellow">
     Start small, test early, learn fast
 </div>
 
