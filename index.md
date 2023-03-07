@@ -48,7 +48,9 @@ Example | Tools and techniques | Further reading
 
 Example | Tools and techniques | Further reading
 
-[![Start small, test early, learn fast](https://paper-attachments.dropboxusercontent.com/s_8A5F842EB21A586EB15F7416C8459A5B383B8D95A85DF54255816D981144192A_1677766226651_learn.png)](/start-small.html)
+<div class="yellow">
+    Start small, test early, learn fast
+</div>
 
 
 ### [Start small, test early, learn fast](/start-small.html)
