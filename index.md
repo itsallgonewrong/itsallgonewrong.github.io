@@ -8,10 +8,12 @@ This guide is designed to give you an introduction into these ways of working to
 
 ## When we say Digital we mean…
 
-When we say digital, digital ways of working, or digital organisations we mean:
+When we say _digital_, _digital ways of working_, or _digital organisations_ we mean:
 
 > “Applying the culture, processes, business models and technologies of the internet era to respond to people's raised expectations.”
 — [Tom Loosemore](https://twitter.com/tomskitomski/status/880099461132845056?s=61&t=coARUPj3Xs-J_RGrJtF8rA)
+
+When we say _digital first_ we are referring to (insert words here)
 
 ## Characteristics of the Best Digital Organisations
 
