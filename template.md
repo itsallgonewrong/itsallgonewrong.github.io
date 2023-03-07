@@ -3,11 +3,11 @@
 ----
 
 <div class="yellow">
-    Start small, test early, learn fast
+   CHARACTERISTIC
 </div>
 
 <div class="introwords">
-Start small and optimise for learning. Give the team space to figure things out and test their riskiest assumptions. Deliver value quickly and continuously. Avoid false certainty.
+Intro words to characteristic
 </div>
 
 **By doing these things you will able to** ADD TEXT HERE
